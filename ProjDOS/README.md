@@ -12,7 +12,7 @@ This code uses python3 (tested on python3.9),
 + matplotlib,
 + numpy.
 You also need the `WS2.PDOS` file for a fine grid from SIESTA. 
-Due to large size of the file, we haven
+Due to large size of the file, we haven't included the file.
 
 
 ## Support
